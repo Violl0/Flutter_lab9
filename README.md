@@ -1,17 +1,19 @@
-# flutter_lab9
+# Лабораторная работа №9
 
-A new Flutter project.
+ФИО: Каторжин Максим Вячеславович
+Группа: ИС-21
+Дата: 15.01.2025
 
-## Getting Started
+Что я сделал:
+- Сделал слот машину на Flutter.
+- Научился использовать StatefulWidget и setState.
+- Подключил картинки через pubspec.yaml.
+- Добавил анимацию кручения барабанов и счетчик монет.
 
-This project is a starting point for a Flutter application.
+Скриншот:
+![Скрин](img/step3_Katorzhin.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Как запустить:
+1. Скачать проект.  
+2. В терминале написать: flutter pub get
+3. Потом: flutter run -d chrome
